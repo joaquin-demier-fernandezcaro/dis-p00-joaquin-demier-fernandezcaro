@@ -1,0 +1,1 @@
+Documento de prueba para el commit de la práctica 0.
